@@ -471,5 +471,11 @@ namespace TechProcess
 
             }
         }
+
+        private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            const string message = "Сделал Николай Чередников. 2021 г.";
+            MessageBox.Show(message);
+        }
     }
 }
