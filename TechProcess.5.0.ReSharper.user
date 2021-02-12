@@ -1,0 +1,499 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="d:Прочие файлы/f:Class1.cs/l:D!?Programming?ProjectsVS2008?LibTP?LibTP?Class1.cs" caret="483" fromTop="17" />
+      <File id="d:Прочие файлы/f:UnitMarsh.cs/l:D!?Programming?ProjectsVS2008?LibTP?LibTP?UnitMarsh.cs" caret="2452" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Close" priority="1" />
+      <Item value="OpenFileDialog" priority="1" />
+      <Item value="new" priority="24" />
+      <Item value="string" priority="22" />
+      <Item value="filename" priority="2" />
+      <Item value="opf" priority="4" />
+      <Item value="label1" priority="3" />
+      <Item value="_Worksheet" priority="1" />
+      <Item value="for" priority="4" />
+      <Item value="int" priority="35" />
+      <Item value="i" priority="33" />
+      <Item value="sheet" priority="9" />
+      <Item value="Length" priority="1" />
+      <Item value="protected" priority="1" />
+      <Item value="void" priority="2" />
+      <Item value="columnOp" priority="4" />
+      <Item value="sheetOp" priority="5" />
+      <Item value="dataGridView1" priority="1" />
+      <Item value="cls" priority="16" />
+      <Item value="size" priority="1" />
+      <Item value="book" priority="2" />
+      <Item value="double" priority="3" />
+      <Item value="index" priority="7" />
+      <Item value="count" priority="5" />
+      <Item value="objectExcel" priority="7" />
+      <Item value="timer1" priority="1" />
+      <Item value="true" priority="15" />
+      <Item value="false" priority="18" />
+      <Item value="col" priority="4" />
+      <Item value="Converter" priority="1" />
+      <Item value="while" priority="5" />
+      <Item value="str" priority="3" />
+      <Item value="size1" priority="2" />
+      <Item value="level" priority="2" />
+      <Item value="if" priority="60" />
+      <Item value="Convert" priority="3" />
+      <Item value="koef" priority="3" />
+      <Item value="in" priority="0" />
+      <Item value="k" priority="5" />
+      <Item value="null" priority="7" />
+      <Item value="label2" priority="1" />
+      <Item value="d" priority="0" />
+      <Item value="Class1" priority="6" />
+      <Item value="marsh" priority="7" />
+      <Item value="openOp" priority="0" />
+      <Item value="openWorks" priority="2" />
+      <Item value="objectExcel1" priority="1" />
+      <Item value="Brushes" priority="0" />
+      <Item value="ind" priority="11" />
+      <Item value="XlLineStyle" priority="0" />
+      <Item value="XlBorderWeight" priority="0" />
+      <Item value="clM" priority="5" />
+      <Item value="_Workbook" priority="0" />
+      <Item value="turner" priority="0" />
+      <Item value="tik" priority="4" />
+      <Item value="radioButton1" priority="0" />
+      <Item value="else" priority="15" />
+      <Item value="fileMarsh" priority="5" />
+      <Item value="cl" priority="2" />
+      <Item value="step" priority="1" />
+      <Item value="public" priority="16" />
+      <Item value="const" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="List&lt;int&gt;" priority="0" />
+      <Item value="UnitMarsh" priority="4" />
+      <Item value="fileName" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="return" priority="10" />
+      <Item value="unit" priority="23" />
+      <Item value="Application" priority="2" />
+      <Item value="value" priority="0" />
+      <Item value="Worker" priority="3" />
+      <Item value="fileWorker" priority="0" />
+      <Item value="this" priority="10" />
+      <Item value="name" priority="0" />
+      <Item value="worker" priority="13" />
+      <Item value="bookMarch" priority="2" />
+      <Item value="button1" priority="7" />
+      <Item value="button2" priority="1" />
+      <Item value="override" priority="0" />
+      <Item value="radioButton2" priority="0" />
+      <Item value="groupBox2" priority="7" />
+      <Item value="openMarsh" priority="2" />
+      <Item value="sizeRows" priority="1" />
+      <Item value="MessageBoxButtons" priority="1" />
+      <Item value="MessageBoxIcon" priority="1" />
+      <Item value="XmlReader" priority="0" />
+      <Item value="textBox1" priority="3" />
+      <Item value="rd" priority="5" />
+      <Item value="Pasword" priority="3" />
+      <Item value="Form1" priority="3" />
+      <Item value="frm" priority="2" />
+      <Item value="Autor" priority="0" />
+      <Item value="XmlWriter" priority="0" />
+      <Item value="wr" priority="0" />
+      <Item value="psw" priority="0" />
+      <Item value="MessageBox" priority="0" />
+      <Item value="cell" priority="1" />
+      <Item value="numberOp" priority="0" />
+      <Item value="delta" priority="1" />
+      <Item value="groupBox3" priority="1" />
+      <Item value="work" priority="2" />
+      <Item value="run" priority="2" />
+      <Item value="radioButton4" priority="1" />
+      <Item value="groupBox4" priority="3" />
+      <Item value="Keys" priority="1" />
+      <Item value="e" priority="0" />
+      <Item value="clWork" priority="1" />
+      <Item value="inof" priority="4" />
+      <Item value="clRun" priority="0" />
+      <Item value="begine" priority="2" />
+      <Item value="CellFormat" priority="0" />
+      <Item value="FormatConditions" priority="0" />
+      <Item value="cll" priority="7" />
+      <Item value="Char" priority="0" />
+      <Item value="String" priority="0" />
+      <Item value="row" priority="0" />
+      <Item value="String`0" priority="1" />
+      <Item value="Form1`0" priority="1" />
+      <Item value="AboutBox1`0" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="Thread`0" priority="3" />
+      <Item value="Thread" priority="1" />
+      <Item value="ThreadStart`0" priority="0" />
+      <Item value="trd" priority="1" />
+      <Item value="ClassGeneral`0" priority="1" />
+      <Item value="ClassGeneral" priority="0" />
+      <Item value="Threading" priority="0" />
+      <Item value="lock" priority="1" />
+      <Item value="cg" priority="0" />
+      <Item value="pusk" priority="5" />
+      <Item value="timer2" priority="1" />
+      <Item value="TextBoxBase`0" priority="0" />
+      <Item value="CenterToParent`0" priority="0" />
+      <Item value="TextFormatFlags`0" priority="0" />
+      <Item value="TextBox`0" priority="0" />
+      <Item value="TextRenderer`0" priority="0" />
+      <Item value="HorizontalAlignment`0" priority="0" />
+      <Item value="star" priority="1" />
+      <Item value="rw" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="ob" priority="0" />
+      <Item value="is" priority="0" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="try" priority="0" />
+      <Item value="continue" priority="0" />
+      <Item value="break" priority="2" />
+      <Item value="ecuals" priority="3" />
+      <Item value="tikWork" priority="0" />
+      <Item value="FileDialog`0" priority="0" />
+      <Item value="SaveFileDialog`0" priority="0" />
+      <Item value="SaveFileDialog" priority="0" />
+      <Item value="sf" priority="1" />
+      <Item value="File`0" priority="1" />
+      <Item value="Directory`0" priority="6" />
+      <Item value="dir" priority="3" />
+      <Item value="FileInfo`0" priority="1" />
+      <Item value="FileInfo" priority="1" />
+      <Item value="fi" priority="1" />
+      <Item value="MissingMethodException`0" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="_Workbook`0" priority="1" />
+      <Item value="OpenBook`0" priority="0" />
+      <Item value="bookWorker" priority="0" />
+      <Item value="Type`0" priority="0" />
+      <Item value="TreeNode`0" priority="0" />
+      <Item value="OK" priority="0" />
+      <Item value="Error" priority="0" />
+      <Item value="RoutedThread`0" priority="0" />
+      <Item value="RoutedThread" priority="0" />
+      <Item value="thread" priority="14" />
+      <Item value="newThread" priority="0" />
+      <Item value="Application`0" priority="0" />
+      <Item value="thr" priority="0" />
+      <Item value="un" priority="2" />
+      <Item value="wrun" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="FileName" priority="0" />
+      <Item value="Filter" priority="0" />
+      <Item value="InitialDirectory" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="Indexer" priority="0" />
+      <Item value="RowCount" priority="0" />
+      <Item value="Rows" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:EcualsCells.Class1">
+      <Item value="cell" priority="20" />
+      <Item value="cellBorder" priority="0" />
+      <Item value="cellFontSize" priority="2" />
+      <Item value="cellFontColor" priority="2" />
+      <Item value="cellBorderColor" priority="1" />
+      <Item value="cellBorderLine" priority="1" />
+      <Item value="getSheet" priority="0" />
+      <Item value="cellColor" priority="0" />
+      <Item value="cell`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="19" />
+      <Item value="ToString`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel._Workbook">
+      <Item value="Sheets" priority="1" />
+      <Item value="InactiveListBorderVisible" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="Path" priority="2" />
+      <Item value="Save`0" priority="0" />
+      <Item value="SaveAs`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Sheets">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Application">
+      <Item value="_Evaluate" priority="2" />
+      <Item value="Visible" priority="17" />
+      <Item value="Value" priority="0" />
+      <Item value="ActiveWorkbook" priority="2" />
+      <Item value="Quit" priority="1" />
+      <Item value="ActiveChart" priority="0" />
+      <Item value="Name" priority="1" />
+      <Item value="Names" priority="0" />
+      <Item value="Save`0" priority="1" />
+      <Item value="Quit`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32" priority="8" />
+      <Item value="ToDouble" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Enabled" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="4" />
+      <Item value="IndexOf`0" priority="1" />
+      <Item value="Replace`0" priority="0" />
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripMenuItem">
+      <Item value="Enabled" priority="5" />
+      <Item value="PerformClick" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel._Worksheet">
+      <Item value="SetBackgroundPicture" priority="0" />
+      <Item value="Cells" priority="16" />
+      <Item value="get_Range" priority="2" />
+      <Item value="Arcs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Brushes">
+      <Item value="Red" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Red" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Interop.Excel.XlLineStyle">
+      <Item value="xlContinuous" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Office.Interop.Excel.XlBorderWeight">
+      <Item value="xlHairline" priority="1" />
+      <Item value="xlMedium" priority="0" />
+      <Item value="xlThin" priority="0" />
+      <Item value="xlThick" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="3" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Checked" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="1" />
+      <Item value="Capacity" priority="0" />
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechProcess.UnitMarsh">
+      <Item value="Size" priority="3" />
+      <Item value="Cls" priority="0" />
+      <Item value="Sheet" priority="3" />
+      <Item value="SynshronizeMarsh" priority="0" />
+      <Item value="ObjectExcel" priority="12" />
+      <Item value="BookMarsh" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechProcess.Worker">
+      <Item value="name" priority="0" />
+      <Item value="unit" priority="0" />
+      <Item value="Distribution" priority="0" />
+      <Item value="ObjectExcel" priority="7" />
+      <Item value="ClWork" priority="1" />
+      <Item value="Sheet" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="0" />
+      <Item value="Visible" priority="6" />
+      <Item value="PerformClick" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OK" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Error" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlReader">
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="3" />
+      <Item value="Focus" priority="0" />
+      <Item value="Select" priority="0" />
+      <Item value="TextAlign" priority="2" />
+      <Item value="Font" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="Value" priority="1" />
+      <Item value="Read" priority="0" />
+      <Item value="Close" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechProcess.Form1">
+      <Item value="Show" priority="0" />
+      <Item value="Show`0" priority="1" />
+      <Item value="Invalidate`0" priority="1" />
+      <Item value="BringToFront`0" priority="1" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Xml.XmlWriter">
+      <Item value="Create" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlWriter">
+      <Item value="WriteElementString" priority="0" />
+      <Item value="Close" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechProcess.Pasword">
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechProcess.Autor">
+      <Item value="Hide" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit" priority="0" />
+      <Item value="Exit`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.GroupBox">
+      <Item value="Visible" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechProcess.RunWorks">
+      <Item value="Distribution" priority="0" />
+      <Item value="ObjectExcel" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Range">
+      <Item value="get_Range" priority="0" />
+      <Item value="Font" priority="1" />
+      <Item value="FormatConditions" priority="0" />
+      <Item value="get_Value" priority="1" />
+      <Item value="set_Value`0" priority="0" />
+      <Item value="get_Value`0" priority="0" />
+      <Item value="get_Range`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Font">
+      <Item value="Size" priority="0" />
+      <Item value="ColorIndex" priority="0" />
+      <Item value="FontStyle" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="Enter" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyCode" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Char">
+      <Item value="IsDigit" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Void">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechProcess.AboutBox1">
+      <Item value="timer1" priority="0" />
+      <Item value="Hide`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="1" />
+      <Item value="Join`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechProcess.ClassGeneral">
+      <Item value="trd" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Font">
+      <Item value="Size" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.TextFormatFlags">
+      <Item value="Left" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.HorizontalAlignment">
+      <Item value="Center" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.FontStyle">
+      <Item value="Bold" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="FileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="SetCurrentDirectory`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileInfo">
+      <Item value="DirectoryName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Workbooks">
+      <Item value="Open`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Missing">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TechProcess.OpenBook">
+      <Item value="Open`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Type">
+      <Item value="Missing" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TechProcess.RoutedThread">
+      <Item value="Unit" priority="4" />
+      <Item value="Work" priority="7" />
+      <Item value="Wrun" priority="1" />
+      <Item value="SheetOp" priority="0" />
+      <Item value="run`0" priority="0" />
+      <Item value="myMain`0" priority="0" />
+      <Item value="myMain1`0" priority="0" />
+      <Item value="myMain2`0" priority="0" />
+      <Item value="myMain4`0" priority="0" />
+      <Item value="myMain3`0" priority="0" />
+      <Item value="myMain5`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LibTP.Worker">
+      <Item value="ObjectExcel" priority="0" />
+      <Item value="Flag" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LibTP.UnitMarsh">
+      <Item value="Flag" priority="1" />
+      <Item value="ObjectExcel" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LibTP.RunWorks">
+      <Item value="Flag" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

@@ -1,0 +1,118 @@
+D:\Проекты\TechProcess\TechProcess\bin\Release\TechProcess.exe
+D:\Проекты\TechProcess\TechProcess\bin\Release\TechProcess.pdb
+D:\Проекты\TechProcess\TechProcess\bin\Release\EcualsCells.dll
+D:\Проекты\TechProcess\TechProcess\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Проекты\TechProcess\TechProcess\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Проекты\TechProcess\TechProcess\bin\Release\office.dll
+D:\Проекты\TechProcess\TechProcess\bin\Release\EcualsCells.pdb
+D:\Проекты\TechProcess\TechProcess\bin\Release\EcualsCells.xml
+D:\Проекты\TechProcess\TechProcess\obj\Release\ResolveAssemblyReference.cache
+D:\Проекты\TechProcess\TechProcess\obj\Release\TechProcess.Autor.resources
+D:\Проекты\TechProcess\TechProcess\obj\Release\TechProcess.Form1.resources
+D:\Проекты\TechProcess\TechProcess\obj\Release\TechProcess.Pasword.resources
+D:\Проекты\TechProcess\TechProcess\obj\Release\TechProcess.Properties.Resources.resources
+D:\Проекты\TechProcess\TechProcess\obj\Release\TechProcess.csproj.GenerateResource.Cache
+D:\Проекты\TechProcess\TechProcess\obj\Release\TechProcess.exe
+D:\Проекты\TechProcess\TechProcess\obj\Release\TechProcess.pdb
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Release\TechProcess.exe
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Release\TechProcess.pdb
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Release\TechProcess.exe
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Release\TechProcess.pdb
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Release\EcualsCells.dll
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Release\EcualsCells.pdb
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Release\EcualsCells.xml
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Release\ResolveAssemblyReference.cache
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Release\TechProcess.Autor.resources
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Release\TechProcess.Form1.resources
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Release\TechProcess.Pasword.resources
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Release\TechProcess.Properties.Resources.resources
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Release\TechProcess.csproj.GenerateResource.Cache
+D:\PHPProjects\TechProcess\TechProcess\obj\Release\TechProcess.exe
+D:\PHPProjects\TechProcess\TechProcess\obj\Release\TechProcess.pdb
+D:\PHPProjects\TechProcess\TechProcess\bin\Release\TechProcess.exe
+D:\PHPProjects\TechProcess\TechProcess\bin\Release\TechProcess.pdb
+D:\PHPProjects\TechProcess\TechProcess\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\PHPProjects\TechProcess\TechProcess\bin\Release\Microsoft.Vbe.Interop.dll
+D:\PHPProjects\TechProcess\TechProcess\bin\Release\office.dll
+D:\PHPProjects\TechProcess\TechProcess\bin\Release\EcualsCells.pdb
+D:\PHPProjects\TechProcess\TechProcess\bin\Release\EcualsCells.xml
+D:\PHPProjects\TechProcess\TechProcess\obj\Release\ResolveAssemblyReference.cache
+D:\PHPProjects\TechProcess\TechProcess\obj\Release\TechProcess.Form1.resources
+D:\PHPProjects\TechProcess\TechProcess\obj\Release\TechProcess.Properties.Resources.resources
+D:\PHPProjects\TechProcess\TechProcess\obj\Release\TechProcess.csproj.GenerateResource.Cache
+D:\PHPProjects\TechProcess\TechProcess\obj\Release\TechProcess.AboutBox1.resources
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\obj\Release\TechProcess.exe
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\obj\Release\TechProcess.pdb
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\bin\Release\TechProcess.exe
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\bin\Release\TechProcess.pdb
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\bin\Release\EcualsCells.pdb
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\bin\Release\EcualsCells.xml
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\obj\Release\ResolveAssemblyReference.cache
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\obj\Release\TechProcess.AboutBox1.resources
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\obj\Release\TechProcess.Form1.resources
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\obj\Release\TechProcess.Properties.Resources.resources
+D:\Programming\ProjectsPHP\TechProcess\TechProcess\obj\Release\TechProcess.csproj.GenerateResource.Cache
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\obj\Release\TechProcess.exe
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\obj\Release\TechProcess.pdb
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\obj\Release\TechProcess.Form1.resources
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\obj\Release\TechProcess.Properties.Resources.resources
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\obj\Release\TechProcess.csproj.GenerateResource.Cache
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\bin\Release\TechProcess.exe
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\bin\Release\TechProcess.pdb
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\bin\Release\LibTP.dll
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\bin\Release\System.Printing.dll
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\bin\Release\PresentationCore.dll
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\bin\Release\LibTP.pdb
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\bin\Release\ru\System.Printing.resources.dll
+C:\Users\Konstruktor-17\Desktop\TechProcess\TechProcess\bin\Release\ru\PresentationCore.resources.dll
+D:\Programming\ForTehnologs\TechProcess\TechProcess\obj\Release\TechProcess.exe
+D:\Programming\ForTehnologs\TechProcess\TechProcess\obj\Release\TechProcess.pdb
+D:\Programming\ForTehnologs\TechProcess\TechProcess\bin\Release\TechProcess.exe
+D:\Programming\ForTehnologs\TechProcess\TechProcess\bin\Release\TechProcess.pdb
+D:\Programming\ForTehnologs\TechProcess\TechProcess\bin\Release\LibTP.dll
+D:\Programming\ForTehnologs\TechProcess\TechProcess\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Programming\ForTehnologs\TechProcess\TechProcess\bin\Release\LibTP.pdb
+D:\Programming\ForTehnologs\TechProcess\TechProcess\obj\Release\ResolveAssemblyReference.cache
+D:\Programming\ForTehnologs\TechProcess\TechProcess\obj\Release\TechProcess.Form1.resources
+D:\Programming\ForTehnologs\TechProcess\TechProcess\obj\Release\TechProcess.Properties.Resources.resources
+D:\Programming\ForTehnologs\TechProcess\TechProcess\obj\Release\TechProcess.csproj.GenerateResource.Cache
+D:\Programming\ForTehnologs\TechProcess\TechProcess\bin\Release\TechProcess.exe.config
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\TechProcess.exe.config
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\TechProcess.exe
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\TechProcess.pdb
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\stdole.dll
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.csprojAssemblyReference.cache
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.Form1.resources
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.Properties.Resources.resources
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.csproj.GenerateResource.cache
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.csproj.CoreCompileInputs.cache
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.csproj.CopyComplete
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.exe
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.pdb
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\OpenExcelBook.dll
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\OpenExcelBook.pdb
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\OpenExcelBook.xml
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.exe
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.pdb
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\TechProcess.exe.config
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\TechProcess.exe
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\TechProcess.pdb
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\OpenExcelBook.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\office.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\Microsoft.Vbe.Interop.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\stdole.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\Microsoft.Office.Interop.Excel.xml
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\OpenExcelBook.pdb
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\OpenExcelBook.xml
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Release\office.xml
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.csprojAssemblyReference.cache
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.Form1.resources
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.Properties.Resources.resources
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.csproj.GenerateResource.cache
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.csproj.CoreCompileInputs.cache
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Release\TechProcess.csproj.CopyComplete

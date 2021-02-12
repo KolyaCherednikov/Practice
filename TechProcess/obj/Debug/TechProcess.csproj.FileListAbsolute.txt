@@ -1,0 +1,80 @@
+D:\Проекты\TechProcess\TechProcess\bin\Debug\TechProcess.exe
+D:\Проекты\TechProcess\TechProcess\bin\Debug\TechProcess.pdb
+D:\Проекты\TechProcess\TechProcess\obj\Debug\ResolveAssemblyReference.cache
+D:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.Form1.resources
+D:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.Properties.Resources.resources
+D:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.csproj.GenerateResource.Cache
+D:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.exe
+D:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.pdb
+D:\Проекты\TechProcess\TechProcess\bin\Debug\EcualsCells.dll
+D:\Проекты\TechProcess\TechProcess\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Проекты\TechProcess\TechProcess\bin\Debug\EcualsCells.pdb
+D:\Проекты\TechProcess\TechProcess\bin\Debug\EcualsCells.xml
+D:\Проекты\TechProcess\TechProcess\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Проекты\TechProcess\TechProcess\bin\Debug\office.dll
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Debug\TechProcess.exe
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Debug\TechProcess.pdb
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Debug\TechProcess.exe
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Debug\TechProcess.pdb
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Debug\EcualsCells.dll
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Debug\EcualsCells.pdb
+E:\Проекты\ExcelWork\TechProcess\TechProcess\bin\Debug\EcualsCells.xml
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Debug\ResolveAssemblyReference.cache
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Debug\TechProcess.Form1.resources
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Debug\TechProcess.Properties.Resources.resources
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Debug\TechProcess.csproj.GenerateResource.Cache
+E:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.exe
+E:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.pdb
+E:\Проекты\TechProcess\TechProcess\bin\Debug\TechProcess.exe
+E:\Проекты\TechProcess\TechProcess\bin\Debug\TechProcess.pdb
+E:\Проекты\TechProcess\TechProcess\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Проекты\TechProcess\TechProcess\bin\Debug\EcualsCells.pdb
+E:\Проекты\TechProcess\TechProcess\bin\Debug\EcualsCells.xml
+E:\Проекты\TechProcess\TechProcess\obj\Debug\ResolveAssemblyReference.cache
+E:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.Form1.resources
+E:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.Properties.Resources.resources
+E:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.csproj.GenerateResource.Cache
+D:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.Autor.resources
+D:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.Pasword.resources
+E:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.Autor.resources
+E:\Проекты\TechProcess\TechProcess\obj\Debug\TechProcess.Pasword.resources
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Debug\TechProcess.Autor.resources
+E:\Проекты\ExcelWork\TechProcess\TechProcess\obj\Debug\TechProcess.Pasword.resources
+D:\Programming\ForTehnologs\TechProcess\TechProcess\obj\Debug\TechProcess.exe
+D:\Programming\ForTehnologs\TechProcess\TechProcess\obj\Debug\TechProcess.pdb
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\TechProcess.exe.config
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\TechProcess.exe
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\TechProcess.pdb
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\OpenExcelBook.dll
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\stdole.dll
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\OpenExcelBook.pdb
+D:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\OpenExcelBook.xml
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.csprojAssemblyReference.cache
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.Form1.resources
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.Properties.Resources.resources
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.csproj.GenerateResource.cache
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.csproj.CoreCompileInputs.cache
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.csproj.CopyComplete
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.exe
+D:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.pdb
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\TechProcess.exe.config
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\TechProcess.exe
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\TechProcess.pdb
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\OpenExcelBook.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\office.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\stdole.dll
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\OpenExcelBook.pdb
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\OpenExcelBook.xml
+E:\3\Установка техпроцесс\TechProcess\TechProcess\bin\Debug\office.xml
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.csprojAssemblyReference.cache
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.Form1.resources
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.Properties.Resources.resources
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.csproj.GenerateResource.cache
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.csproj.CoreCompileInputs.cache
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.csproj.CopyComplete
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.exe
+E:\3\Установка техпроцесс\TechProcess\TechProcess\obj\Debug\TechProcess.pdb
